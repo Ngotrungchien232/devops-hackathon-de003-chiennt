@@ -3,7 +3,6 @@
 # Phan-1.2.png
 
 
-sudo ufw allow 22/tcp
-sudo ufw allow 8085/tcp
-sudo ufw --force enable
-sudo ufw status verbose
+
+
+
