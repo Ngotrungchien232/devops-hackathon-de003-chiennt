@@ -132,6 +132,7 @@ sudo ufw enable
 - Phần 1.1 tạo tài khoản người dùng đã Done-creenshots/01-user.png
 - Phần 1.2 Cài đặt phần mềm đã xong em để ảnh minh chứng trong
   screenshots/Phan-1.2
+- Phần 3.3 đã xong có ảnh minh chứng trong screenshots/03-ufw.png
 
 ## 8. Quy trình cập nhật website
 
